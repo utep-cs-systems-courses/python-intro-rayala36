@@ -21,22 +21,29 @@ def read():
     with open(inFile, 'r') as inputFile:
         # For each line in the file, all punctuation marks are replaced with a space
         for line in inputFile:
+            # Consecutive spaces are replaced with a single space
+            line = re.sub(r'\s+', ' ', line)
             line = re.sub(r'[.," !;:?/-]', ' ', line)
-            # Words are placed  in a list, using space or tab as the regex
-            newWords = re.split('[ \t]', line)
+            # Words are placed  in a list with the "split" function
+            newWords = line.split()
             words.extend(word.lower() for word in newWords)
     return words
 
 def write():
+    # Array of all words in the input file will be taken as output from the "read" function
     words = read()
     wordsMappedToCounts = {}
     outputFile = open("output.txt", "w")
-    alphabetizedList = sorted(words)
-    for word in alphabetizedList:
-        # If a word is a alhabetic and not already in the hash table, the word and its count are added and written to output.txt.
-        if word.isalpha() and word not in wordsMappedToCounts:
-            wordsMappedToCounts[word] = alphabetizedList.count(word)
-            outputFile.write(f"{word} {wordsMappedToCounts[word]}\n")
+    for word in words:
+        if word.isalpha():
+            # For all alphabetical words, if the word is not present in the dictionary, it will be given
+            # a default value of zero and will be incremented by one.  Otherwise, the word's current count
+            # value will be incremented by one.
+            wordsMappedToCounts[word] = wordsMappedToCounts.get(word, 0) + 1
+    alphabetizedDict = sorted(wordsMappedToCounts.items())
+    
+    for word, wordsMappedToCounts[word] in alphabetizedDict:
+        outputFile.write(f"{word} {wordsMappedToCounts[word]}\n")
 
     outputFile.close()
             
