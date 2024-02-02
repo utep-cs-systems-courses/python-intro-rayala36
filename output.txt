@@ -1,10 +1,5 @@
- 150
-
- 71
 a 16
 abdicated 1
-abolish
- 1
 abolishing 3
 absolute 3
 absolved 1
@@ -21,8 +16,6 @@ after 1
 against 2
 ages 2
 all 8
-all
- 2
 allegiance 1
 alliances 1
 alone 1
@@ -35,8 +28,6 @@ amongst 1
 amount 1
 an 5
 and 50
-and
- 7
 annihilation 1
 another 1
 answered 1
@@ -46,8 +37,6 @@ appealing 1
 appropriations 1
 arbitrary 1
 are 7
-are
- 2
 armed 1
 armies 2
 arms 1
@@ -57,22 +46,16 @@ assent 4
 assume 1
 at 4
 attempts 1
-attend
- 1
 attentions 1
 authority 1
 away 1
 bands 1
 barbarous 1
 be 8
-be
- 1
 bear 1
 become 1
 becomes 2
 been 4
-begun
- 1
 benefits 1
 between 1
 beyond 1
@@ -85,25 +68,17 @@ british 2
 burnt 1
 but 1
 by 12
-by
- 1
 called 1
 candid 1
 captive 1
 cases 2
-cause
- 1
 causes 2
-certain
- 1
 changed 1
 character 1
 charters 1
 circumstances 2
 citizens 1
 civil 1
-civilized
- 1
 coasts 1
 colonies 4
 combined 1
@@ -115,11 +90,7 @@ compliance 1
 conclude 1
 conditions 2
 congress 1
-conjured
- 1
 connected 1
-connexion
- 1
 connexions 1
 consanguinity 1
 consent 3
@@ -131,8 +102,6 @@ convulsions 1
 correspondence 1
 country 1
 course 1
-created
- 1
 creator 1
 crown 1
 cruelty 1
@@ -155,8 +124,6 @@ desolation 1
 despotism 1
 destroyed 1
 destruction 1
-destructive
- 1
 dictate 1
 direct 1
 disavow 1
@@ -178,72 +145,48 @@ elected 1
 emigration 1
 encourage 1
 endeavoured 1
-endeavoured
- 1
 endowed 1
 ends 1
 enemies 1
 english 1
-enlarging
- 1
 entitle 1
 equal 2
 erected 1
-establish
- 1
 established 1
 establishing 2
 establishment 1
 events 1
 every 1
-every
- 1
 evident 1
 evils 1
 evinces 1
 example 1
 excited 1
-executioners
- 1
 exercise 1
-experience
- 1
 exposed 1
 extend 1
 facts 1
 fall 1
 fatiguing 1
 fellow 1
-firm
- 1
 firmness 1
-fit
- 1
 for 29
 forbidden 1
 foreign 2
 foreigners 1
 form 2
-former
- 1
 formidable 1
 forms 2
 fortunes 1
 foundation 1
 free 3
-free
- 1
 friends 2
 from 6
 frontiers 1
 full 1
 fundamentally 1
-future
- 1
 general 1
 giving 1
-god
- 1
 good 2
 governed 1
 government 6
@@ -257,17 +200,11 @@ harrass 1
 has 20
 hath 1
 have 9
-have
- 2
 having 1
 he 19
 head 1
 here 2
-high
- 1
 his 7
-his
- 2
 history 2
 hither 2
 hold 3
@@ -280,13 +217,9 @@ impel 1
 importance 1
 imposing 1
 in 17
-in
- 2
 incapable 1
 indeed 1
 independent 4
-indian
- 1
 inestimable 1
 inevitably 1
 inhabitants 2
@@ -303,8 +236,6 @@ introducing 1
 invariably 1
 invasion 1
 invasions 1
-invested
- 1
 is 10
 it 6
 its 3
@@ -321,16 +252,12 @@ king 1
 known 1
 lands 1
 large 3
-large
- 1
 laws 9
 laying 1
 legislate 1
 legislation 1
 legislative 2
 legislature 1
-legislature
- 1
 legislatures 2
 let 1
 levy 1
@@ -350,8 +277,6 @@ may 2
 mean 1
 measures 1
 men 2
-mercenaries
- 1
 merciless 1
 migrations 1
 military 1
@@ -359,8 +284,6 @@ mock 1
 more 1
 most 5
 multitude 1
-murders
- 1
 must 1
 mutually 1
 name 1
@@ -368,14 +291,9 @@ nation 1
 native 1
 naturalization 1
 nature 1
-nature's 1
 necessary 1
-necessary
- 1
 necessity 2
 neglected 1
-neighbouring
- 1
 new 4
 nor 1
 not 1
@@ -385,19 +303,13 @@ obstructed 1
 obstructing 1
 obtained 1
 of 67
-of
- 9
 off 2
 offences 1
 officers 1
 offices 2
 on 8
 once 1
-one
- 1
 only 1
-only
- 1
 operation 1
 opinions 1
 opposing 1
@@ -410,8 +322,6 @@ ought 2
 our 26
 out 2
 over 1
-over
- 1
 own 1
 paralleled 1
 parts 1
@@ -431,8 +341,6 @@ population 1
 power 3
 powers 5
 present 1
-pressing
- 1
 pretended 2
 prevent 1
 prince 1
@@ -445,8 +353,6 @@ providence 1
 province 1
 prudence 1
 public 1
-public
- 1
 publish 1
 punishment 1
 purpose 2
@@ -471,8 +377,6 @@ repeatedly 1
 representation 1
 representative 1
 representatives 1
-requires
- 1
 respect 1
 rest 1
 returned 1
@@ -492,17 +396,11 @@ security 1
 seem 1
 self 1
 sent 1
-separate
- 1
 separation 2
 settlement 1
 sexes 1
-shall
- 1
 shewn 1
 should 3
-should
- 1
 so 2
 sole 1
 solemnly 1
@@ -510,15 +408,11 @@ stage 1
 standing 1
 state 2
 states 6
-states
- 1
 station 1
 subject 1
 submitted 1
 substance 1
 such 5
-such
- 1
 suffer 1
 sufferable 1
 sufferance 1
@@ -537,15 +431,9 @@ tenure 1
 terms 1
 than 1
 that 12
-that
- 1
 the 71
-the
- 5
 their 20
 them 13
-them
- 2
 themselves 3
 therefore 2
 therein 1
@@ -561,8 +449,6 @@ till 1
 time 5
 times 1
 to 60
-to
- 5
 together 1
 too 1
 totally 2
@@ -581,8 +467,6 @@ unacknowledged 1
 unalienable 1
 uncomfortable 1
 under 1
-undistinguished
- 1
 unfit 1
 united 2
 unless 2
@@ -600,22 +484,16 @@ war 3
 warfare 1
 warned 1
 we 10
-we
- 1
 whatsoever 1
 when 3
 whenever 1
 whereby 1
 which 8
-which
- 2
 while 1
 wholesome 1
 whose 2
 will 2
 with 6
-with
- 3
 within 1
 without 3
 works 1

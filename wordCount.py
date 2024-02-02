@@ -5,10 +5,12 @@ import os
 import re
 import subprocess
 
+# Ensures that the correct number of parameters are in the command line
 if len(sys.argv) != 3:
     os.write("Correct usage: wordCount.py <input text file> <output file>")
     exit()
 
+    
 def read():
 
     inFile = sys.argv[1]
@@ -27,7 +29,7 @@ def write():
     outputFile = open("output.txt", "w")
     alphabetizedList = sorted(words)
     for word in alphabetizedList:
-        if word not in wordsMappedToCounts:
+        if word.isalpha() and word not in wordsMappedToCounts:
             wordsMappedToCounts[word] = alphabetizedList.count(word)
             outputFile.write(f"{word} {wordsMappedToCounts[word]}\n")
 
